@@ -1,12 +1,4 @@
 # AtliQ Mart Supply Chain Analysis
-As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
-
-Challenge [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
-
-Live Dashboard [Link](https://www.novypro.com/project/atliq-mart---supply-chain-analysis)
-
-Presentation Video [Link](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-storytellingwithdata-activity-6990178185162227712-jV9h)
-
 ## Problem statement
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
@@ -17,8 +9,6 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 
 ### Task List
-
-Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now Imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task
 
 Create the metrics according to the metrics list.
 Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
